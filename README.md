@@ -8,7 +8,7 @@ The Consumer Division of a company has decided to offer budgeting and financial 
 - Financial Report 
 
 # Budget Analysis
-__In this section, I used Plaid API to obtain transaction and account data for the budget analysis section of the report to complete the following_:
+__In this section, I used Plaid API to obtain transaction and account data for the budget analysis section of the report to complete the following__:
 
 - Generate a Plaid access token to access the Developer Sandbox
 - Use the Access token to fetch account transactions from the sandbox (fetched the last 90 days of transactions from the sandbox)
